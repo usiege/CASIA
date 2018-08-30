@@ -2,14 +2,17 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-08-30
+
+
 ### 2018-08-29
 
-* 添加了李飞飞深度学习课程资料，链接[Lee feifei]()
+* 添加了李飞飞深度学习课程资料，链接[Lee feifei](https://github.com/usiege/CASIA/tree/master/Lee%20feifei)
 * SqueezeSeq翻译继续
 
 ### 2018-08-28
 
-[SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud](https://github.com/uwuneng/SqueezeSeg) 翻译
+[SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud](https://github.com/uwuneng/SqueezeSeg) 
 
 ### 2018-08-27 
 
