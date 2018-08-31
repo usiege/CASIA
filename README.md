@@ -2,7 +2,12 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-08-31
+
+
 ### 2018-08-30
+
+* [3D Bounding Box Estimation Using Deep Learning and Geometry](https://blog.csdn.net/cuichuanchen3307/article/details/80970086)
 
 
 ### 2018-08-29
