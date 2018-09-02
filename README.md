@@ -2,8 +2,11 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+
+
 ### 2018-08-31
 
+* 一周总结，SqueezeSeg翻译（剩最后一部分）；
 
 ### 2018-08-30
 
