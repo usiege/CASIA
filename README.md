@@ -2,7 +2,9 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-09-07
 
+* 9月第一周总结，文档链接[9月第一周]()
 
 ### 2018-08-31
 
