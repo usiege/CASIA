@@ -1,4 +1,8 @@
-# 在所工作记录
+# 工作记录
+
+<p align='center'>
+<img src='bg.png'>
+</p>
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
