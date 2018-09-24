@@ -7,6 +7,10 @@
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
 
+### 2018-09-24
+
+* 本周将工作总结与知识点分开，今后链接只给出知识点；
+* 9月第三周总结，文档链接[9月第三周](https://github.com/usiege/CASIA/blob/master/总结pdf/2018-09-24.pdf)
 
 ### 2018-09-14
 
@@ -18,7 +22,7 @@
 
 ### 2018-08-31
 
-* 一周总结，SqueezeSeg翻译[翻译链接](https://github.com/usiege/CASIA/blob/master/Paper/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
+* 8月周总结，SqueezeSeg翻译[翻译链接](https://github.com/usiege/CASIA/blob/master/Paper/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
 
 ### 2018-08-30
 
