@@ -1,4 +1,5 @@
-# 工作记录
+
+# 人工智能工作记录
 
 <p align='center'>
 <img src='bg.png'>
@@ -72,6 +73,15 @@
  * [Playing Atari with Deep Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1312.5602v1%20Playing%20Atari.pdf)
  * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf) 
 
+### 2018-05-27
+  - [UCAS_iOS_02](https://github.com/uwuneng/swift_Lib/tree/master/UCAS_02)
+  - [机器之心——NeuralNetwork](https://github.com/usiege/Deep-Learning/tree/master/0527-NeuralNetwork)   [（文章链接）](https://mp.weixin.qq.com/s/KJafSya1PVWM_o2EZ4xl6w)
+
+
+### 2018-05-26
+  - [RNNLM神经网络训练模型](https://github.com/usiege/Python/tree/master/ai-learning/npl-lesson3)
+
+
 ### 2018-05-22
 
  * [deeplearning.ai](http://deeplearning.ai)
@@ -86,9 +96,20 @@ Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
 Learning and Curriculum Transfer Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1804.00810.pdf)
  * [Feedback-Based Tree Search for Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1805.05935.pdf)
 
+### 2018-05-18 
+  - [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2)
+
+### 2018-05-15
+  - [DNN-Theano.pdf](https://github.com/usiege/Machine-Learning/blob/master/0515-Theano%20DNN.pdf)；
+
+### 2018-05-14 
+  1. [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2);
+  2. [Regression (v6).pdf](https://github.com/usiege/Machine-Learning/blob/master/0514-Regression%20(v6).pdf);
+
 ### 2018-05-07 创建
 
 添加了缪青海老师发送的开题报告样例；
+
 
 ### 2018-05
 
