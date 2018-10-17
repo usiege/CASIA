@@ -6,6 +6,17 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-10-17
+* [ImageNet Classification with Deep Convolutional Neural Networks](https://blog.csdn.net/quincuntial/article/details/75668467)
+
+### 2018-10-16
+[SqueezeSeg: 点云中三维物体的实时分割技术](https://zhuanlan.zhihu.com/p/43598102)
+
+### 2018-10-15
+[SqueezeNet: AlexNet-level accuracy with 50x fewer parameters](https://github.com/uwuneng/SqueezeNet)
+
+### 2018-10-14
+[Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ### 2018-09-24
 
