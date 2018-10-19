@@ -84,8 +84,7 @@
  * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf) 
 
 ### 2018-05-27
-  - [UCAS_iOS_02](https://github.com/uwuneng/swift_Lib/tree/master/UCAS_02)
-  - [机器之心——NeuralNetwork](https://github.com/usiege/Deep-Learning/tree/master/0527-NeuralNetwork)   [（文章链接）](https://mp.weixin.qq.com/s/KJafSya1PVWM_o2EZ4xl6w)
+   - [机器之心——NeuralNetwork](https://github.com/usiege/Deep-Learning/tree/master/0527-NeuralNetwork)   [（文章链接）](https://mp.weixin.qq.com/s/KJafSya1PVWM_o2EZ4xl6w)
 
 
 ### 2018-05-26
