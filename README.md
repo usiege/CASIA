@@ -7,7 +7,10 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
-
+### 2018-10-18
+* [3D Convolutional Neural Networks for Human Action Recognition](https://blog.csdn.net/liuxiao214/article/details/78066243)
+* [KITTI 3D DataSet](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
+* [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339)
 
 ### 2018-10-17
 [ImageNet Classification with Deep Convolutional Neural Networks](https://blog.csdn.net/quincuntial/article/details/75668467)
@@ -17,6 +20,8 @@
 
 ### 2018-10-15
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters](https://github.com/uwuneng/SqueezeNet)
+
+
 
 ### 2018-10-14
 [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
