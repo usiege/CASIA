@@ -7,6 +7,9 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-10-19
+* [10月第三周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第三周.md)
+
 ### 2018-10-18
 * [3D Convolutional Neural Networks for Human Action Recognition](https://blog.csdn.net/liuxiao214/article/details/78066243)
 * [KITTI 3D DataSet](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
@@ -21,30 +24,32 @@
 ### 2018-10-15
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters](https://github.com/uwuneng/SqueezeNet)
 
-
-
 ### 2018-10-14
+
 [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+### 2018-10-12
+* [10月第二周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第二周.md)
 
 ### 2018-09-24
 
-* 本周将工作总结与知识点分开，今后链接只给出知识点；
-* 9月第三周总结，文档链接[9月第三周](https://github.com/usiege/CASIA/blob/master/总结pdf/2018-09-24.pdf)
+* 9月第三周总结，文档链接[9月第三周](https://github.com/usiege/CASIA/blob/master/2018-09-第三周.md)
 
 ### 2018-09-14
 
-* 9月第二周总结，文档链接[9月第二周](https://github.com/usiege/CASIA/blob/master/总结pdf/2018-09-第二周.pdf)
+* 9月第二周总结，文档链接[9月第二周](https://github.com/usiege/CASIA/blob/master/2018-09-第二周.md)
 
 * 添加了作业目录[cousera_DeepLearning-homework](https://github.com/usiege/Deep-Learning/cousera_DeepLearning-homework)
 
 ### 2018-09-07
 
-* 9月第一周总结，文档链接[9月第一周](https://github.com/usiege/CASIA/blob/master/总结pdf/2018-09-第一周.pdf)
+* 9月第一周总结，文档链接[9月第一周](https://github.com/usiege/CASIA/blob/master/2018-09-第一周.md)
 
 
 ### 2018-08-31
 
-* 8月周总结，SqueezeSeg翻译[翻译链接](https://github.com/usiege/CASIA/blob/master/Paper/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
+* 8月周总结，SqueezeSeg翻译[链接](https://github.com/usiege/CASIA/blob/master/Paper/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
+* 8月一周总结，[8月总结文档](https://github.com/usiege/CASIA/blob/master/2018-08-总结.md)
 
 ### 2018-08-30
 
