@@ -9,6 +9,7 @@
 
 ### 2018-10-19
 * [10月第三周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第三周.md)
+* 关于点云识别的传统方法有基于特征点的识别（用描述符），相关论文
 
 ### 2018-10-18
 * [3D Convolutional Neural Networks for Human Action Recognition](https://blog.csdn.net/liuxiao214/article/details/78066243)
@@ -120,24 +121,7 @@ Learning and Curriculum Transfer Learning](https://github.com/usiege/Deep-Learni
 添加了缪青海老师发送的开题报告样例；
 
 
-### 2018-05
+## 其他Repositories
 
-  * [0522-Regression Demo](https://www.youtube.com/watch?v=1UqCjFQiiy0&index=4&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
-
-  * [0514-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2) #开始于14日,未完成
-  
-  * [0515-Theano DNN](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Theano%20DNN.ecm.mp4/index.html)
-
- 
-### 2018-04
-	
-  * 0400-bayes 机器学习实战书上例子，[贝叶斯调研作业](https://github.com/usiege/Exercise/blob/master/AI-模式识别/模式识别-作业.docx)
-
-### 2018-03
-	
-  * 0300- Learning Map
-  * 0313- Machine Learning and having it deep and structured
-  * 0315- Neural Network Basic Ideas
-  * 0300- What is Machine Leaning 
-  * 0316- Theano DNN #已失宠
-  * 本月计划丢弃，下月从youtube视频继续
+[Deep-learning](https://github.com/usiege/Deep-Learning)
+[Machine-learning](https://github.com/usiege/Machine-Learning)
