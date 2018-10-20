@@ -75,6 +75,8 @@
 研究课题：3D对象识别
 
 ### 2018-06-13
+ * [吴恩达deeplearning深度学习pdf](https://github.com/usiege/Deep-Learning/blob/master/Deeplearning深度学习笔记v5.54.pdf)
+ * [吴恩达deeplearning深度学习英文原版](https://github.com/usiege/Deep-Learning/blob/master/Programming%2BAssignments%2Bof%2BDeep%2BLearning%2BSpecialization%2B%25285%2Bcourses%2529.pdf)
  * [吴恩达机器学习笔记](https://github.com/uwuneng/Coursera-ML-AndrewNg-Notes)
  * [吴恩达deeplearning.ai作业资料](https://github.com/uwuneng/deeplearning.ai)
 
