@@ -49,7 +49,7 @@
 
 ### 2018-08-31
 
-* 8月周总结，SqueezeSeg翻译[链接](https://github.com/usiege/CASIA/blob/master/Paper/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
+* 8月周总结，SqueezeSeg翻译[链接](https://github.com/usiege/Deep-Learning/blob/master/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
 * 8月一周总结，[8月总结文档](https://github.com/usiege/CASIA/blob/master/2018-08-总结.md)
 
 ### 2018-08-30
@@ -59,7 +59,7 @@
 
 ### 2018-08-29
 
-* 添加了李飞飞深度学习课程资料，链接[Lee feifei](https://github.com/usiege/CASIA/tree/master/Lee%20feifei)
+* 添加了李飞飞深度学习课程资料，链接[Lee feifei](https://github.com/usiege/Deep-Learning/tree/master/Lee%20feifei)
 * SqueezeSeq翻译继续
 
 ### 2018-08-28
@@ -81,7 +81,7 @@
 ### 2018-05-28
 
  * [NIPS DRL CSDN关于Human-level的资料](https://blog.csdn.net/mydear_11000/article/details/51488118)
- * [Playing Atari with Deep Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1312.5602v1%20Playing%20Atari.pdf)
+ * [Playing Atari with Deep Reinforcement Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1312.5602v1%20Playing%20Atari.pdf)
  * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf) 
 
 ### 2018-05-27
@@ -98,23 +98,20 @@
 
 ### 2018-05-19
 
- * [StarCraft II: A New Challenge for Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/StarCraft%20II.pdf)
+ * [StarCraft II: A New Challenge for Reinforcement Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1708.04782%20StarCraft%20II%20RL.pdf)
  * [Multiagent Bidirectionally-Coordinated Nets
 Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games∗
-](https://github.com/usiege/Deep-Learning/blob/master/paper/1703.10069.pdf)
+](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1703.10069%20StarCraft%20BCN.pdf)
  * [StarCraft Micromanagement with Reinforcement
-Learning and Curriculum Transfer Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1804.00810.pdf)
- * [Feedback-Based Tree Search for Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1805.05935.pdf)
+Learning and Curriculum Transfer Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1804.00810%20StarCraft%20RLvsCTL.pdf)
+ * [Feedback-Based Tree Search for Reinforcement Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1805.05935%20FBTS%20RL.pdf)
 
 ### 2018-05-18 
   - [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2)
 
-### 2018-05-15
-  - [DNN-Theano.pdf](https://github.com/usiege/Machine-Learning/blob/master/0515-Theano%20DNN.pdf)；
 
 ### 2018-05-14 
-  1. [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2);
-  2. [Regression (v6).pdf](https://github.com/usiege/Machine-Learning/blob/master/0514-Regression%20(v6).pdf);
+  - [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2);
 
 ### 2018-05-07 创建
 
@@ -123,5 +120,5 @@ Learning and Curriculum Transfer Learning](https://github.com/usiege/Deep-Learni
 
 ## 其他Repositories
 
-[Deep-learning](https://github.com/usiege/Deep-Learning)
-[Machine-learning](https://github.com/usiege/Machine-Learning)
+* [Deep-learning](https://github.com/usiege/Deep-Learning)
+* [Machine-learning](https://github.com/usiege/Machine-Learning)
