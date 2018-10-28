@@ -7,9 +7,13 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-10-22
+* [ImageNet Classification with Deep Convolutional Neural Networks论文翻译](https://blog.csdn.net/quincuntial/article/details/75668467)
+
+
 ### 2018-10-19
 * [10月第三周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第三周.md)
-* 关于点云识别的传统方法有基于特征点的识别（用描述符），相关论文
+* 关于点云识别的传统方法有基于特征点的识别（用描述符），[相关论文]()
 
 ### 2018-10-18
 * [3D Convolutional Neural Networks for Human Action Recognition](https://blog.csdn.net/liuxiao214/article/details/78066243)
