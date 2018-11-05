@@ -8,6 +8,11 @@
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
 
+### 
+
+### 2018-11-04
+* [LIDAR-based 3D Object Perception](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/LIDAR-based%203D%20Object%20Perception.pdf)
+* [李宏毅机器学习](https://github.com/usiege/Machine-Learning/blob/master/lihongyi-tw/李宏毅机器学习.pdf)
 
 ### 2018-11-02
 * [吴恩达机器学习Yearing](https://github.com/usiege/Machine-Learning/blob/master/wuenda/NG18中文版.pdf)
