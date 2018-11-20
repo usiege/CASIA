@@ -7,8 +7,38 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-11-20
+* [吴恩达深度学习作业，开始操练起来了！！！](https://blog.csdn.net/u012867545/article/details/78909279)
 
-### 
+### 2018-11-16
+* [无人驾驶汽车系统入门：基于深度学习的实时激光雷达点云目标检测及ROS实现...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83745697)
+* [LIDAR-based 3D Object%20Percepti](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/LIDAR-based%203D%20Object%20Perception.pdf)
+
+### 2018-11-13
+* [【论文翻译】Kinectv2 for Mobile Robot Navigation: Evaluationand Modeling](https://blog.csdn.net/hehedadaq/article/details/80567192)
+
+
+### 2018-11-12
+* [Analysis of the Accuracy and Robustness of the Leap
+Motion Controller](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/sensors-13-06380.pdf)
+这是关于LeapMotion精度问题的一篇文章
+* [关于kinectv2性能分析的一些论文](https://blog.csdn.net/jiaojialulu/article/details/52858268)
+
+
+### 2018-11-10
+
+* [InfiniTAM](https://github.com/uwuneng/InfiniTAM)
+InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与跟踪技术框架。
+
+* [InfiniTAM v3: A Framework for Large-Scale 3D Reconstruction with Loop Closure](https://arxiv.org/abs/1708.00783)
+* [A Framework for the Volumetric Integration of Depth Images](http://www.robots.ox.ac.uk/%7Evictor/infinitam/files/itmtechreport_20141027.pdf)
+
+### 2018-11-07
+* [流畅的python](https://github.com/usiege/Python/blob/master/流畅的python.pdf)
+
+### 2018-11-06
+* [Tensorflow空洞卷积的实现](https://blog.csdn.net/mao_xiao_feng/article/details/77924003)
+* [tensorflow fine-tune部分网络层参数实现](https://blog.csdn.net/fk1174/article/details/79731080)
 
 ### 2018-11-04
 * [LIDAR-based 3D Object Perception](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/LIDAR-based%203D%20Object%20Perception.pdf)
