@@ -9,9 +9,20 @@
 
 ### 
 
+
+### 2018-11-23
+
+* [Pointwise原文](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/Pointwise%20Convolutional%20Neural%20Networks.pdf)
+
+- [十月第四周](https://github.com/usiege/CASIA/blob/master/2018-10-第四周.md)
+- [十一月第一周](https://github.com/usiege/CASIA/blob/master/2018-11-第一周.md)
+- [十一月第二周](https://github.com/usiege/CASIA/blob/master/2018-11-第二周.md)
+- [十一月第三周](https://github.com/usiege/CASIA/blob/master/2018-11-第三周.md)
+
 ### 2018-11-21
 
 * [PointNet翻译](https://blog.csdn.net/weixin_42137840/article/details/81200341)
+* [PointNet原文](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/PointNet%20Deep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation.pdf)
 
 ### 2018-11-20
 * [kaggle](https://www.jianshu.com/p/f648de991d51)
