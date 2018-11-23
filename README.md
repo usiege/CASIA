@@ -7,8 +7,20 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 
+
+### 2018-11-21
+
+* [PointNet翻译](https://blog.csdn.net/weixin_42137840/article/details/81200341)
+
 ### 2018-11-20
-* [吴恩达深度学习作业，开始操练起来了！！！](https://blog.csdn.net/u012867545/article/details/78909279)
+* [kaggle](https://www.jianshu.com/p/f648de991d51)
+* [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification/kernels)
+
+
+* [吴恩达深度学习作业](https://www.jianshu.com/p/769fc6fe9b0a)
+* [上例补充](https://github.com/stormstone/deeplearning.ai)
+* [本人作业地址](https://github.com/usiege/CASIA/tree/master/homework)
 
 ### 2018-11-16
 * [无人驾驶汽车系统入门：基于深度学习的实时激光雷达点云目标检测及ROS实现...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83745697)
