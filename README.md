@@ -7,10 +7,12 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
-### 
 
+### 2018
 
 ### 2018-11-23
+
+* [无人驾驶汽车系统入门：基于深度学习的实时激光雷达点云目标检测及ROS实现...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83745697)
 
 * [Pointwise原文](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/Pointwise%20Convolutional%20Neural%20Networks.pdf)
 
