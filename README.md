@@ -8,7 +8,22 @@
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
 
-### 2018
+### 2018-12-05
+
+- [BDCI2018：阿里巴巴集团自动驾驶三维点云分割第四名方案，可能是国内第一个要求实时性的比赛](https://zhuanlan.zhihu.com/p/51508500)
+- [占据栅格地图（Occupancy Grid Map）](https://zhuanlan.zhihu.com/p/21738718)
+- 
+
+
+
+### 2018-12-04
+
+* [斯坦福学者首次提出直接处理三维点云的深度学习模型](https://zhuanlan.zhihu.com/p/37322469)
+* [VoxelNet: 基于点云的三维空间信息逐层次学习网络](https://zhuanlan.zhihu.com/p/40051716)
+* [PCL点云特征描述与提取（1）](https://www.cnblogs.com/li-yao7758258/p/6479255.html)
+* [PCL点云特征描述与提取（2）](https://www.cnblogs.com/li-yao7758258/p/6481668.html)
+* [PCL点云特征描述与提取（3）](https://www.cnblogs.com/li-yao7758258/p/6481738.html)
+
 
 ### 2018-11-23
 
