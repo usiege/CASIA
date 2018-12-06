@@ -1,4 +1,3 @@
-
 # 人工智能工作记录
 
 <p align='center'>
@@ -230,3 +229,4 @@ Learning and Curriculum Transfer Learning](https://github.com/usiege/CASIA/blob/
 
 * [Deep-learning](https://github.com/usiege/Deep-Learning)
 * [Machine-learning](https://github.com/usiege/Machine-Learning)
+
