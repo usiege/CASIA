@@ -7,12 +7,27 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-12-07
+
+
 
 ### 2018-12-06
 
-- 论文阅读方法
+> 论文阅读方法
 
-标注使用方法： 福昕阅读器有多颜色标注，每读一遍使用一种颜色标注；
+> 标注使用方法： 福昕阅读器有多颜色标注，每读一遍使用一种颜色标注；
+
+* [Volumetric and Multi-View CNNs for Object Classification on 3D Data](https://blog.csdn.net/u010167269/article/details/51452297) (基于多视角方法
+
+* [VoxNet: A 3D Convolutional Neural Network for real-time object recognition](https://ieeexplore.ieee.org/document/7353481?denied=) (基于体素
+* [3D ShapeNets: A Deep Representation for Volumetric Shapes](https://arxiv.org/abs/1406.5670) (基于体素
+
+* 点云直接转换 CVPR 2017 PointNet PointNet++
+
+* [特征表达与特征关系](http://58.20.53.45/files/files_upload/content/material_134/content/002002002002001002002001001/)
+* [特征工程之特征选择](https://www.cnblogs.com/pinard/p/9032759.html)
+* [特征工程之特征表达](https://www.cnblogs.com/pinard/p/9061549.html)
+
 
 ### 2018-12-05
 
