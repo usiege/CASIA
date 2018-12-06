@@ -8,12 +8,16 @@
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
 
+### 2018-12-06
+
+- 论文阅读方法
+
+标注使用方法： 福昕阅读器有多颜色标注，每读一遍使用一种颜色标注；
+
 ### 2018-12-05
 
 - [BDCI2018：阿里巴巴集团自动驾驶三维点云分割第四名方案，可能是国内第一个要求实时性的比赛](https://zhuanlan.zhihu.com/p/51508500)
 - [占据栅格地图（Occupancy Grid Map）](https://zhuanlan.zhihu.com/p/21738718)
-- 
-
 
 
 ### 2018-12-04
