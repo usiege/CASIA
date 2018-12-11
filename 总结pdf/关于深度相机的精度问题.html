@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html class="theme theme-white">
+<head>
+<meta charset="utf-8">
+<title>关于深度相机的精度问题</title>
+<link href="https://www.zybuluo.com/static/assets/template-theme-white.css" rel="stylesheet" media="screen">
+<style type="text/css">
+
+#wmd-preview h1  {
+    color: #0077bb; /* 将标题改为蓝色 */
+}</style>
+</head>
+<body class="theme theme-white">
+<div id="wmd-preview" class="wmd-preview wmd-preview-full-reader"><div class="md-section-divider"></div><div class="md-section-divider"></div><h1 data-anchor-id="nzsn" id="关于深度相机的精度问题">关于深度相机的精度问题</h1><p data-anchor-id="fbl7"><code>CASIA</code></p><hr><p data-anchor-id="orcj">常用的三种类型的深度相机<a href="#fn:zh" id="fnref:zh" title="查看注脚" class="footnote">[1]</a>，大致分为以下三种：基于主动投射结构光的深度相机（如<strong>Kinect 1.0</strong>, Intel RealSense, Enshape, Ensenso等）、被动双目相机（如STEROLABS 推出的 <strong>ZED 2K Stereo Camera</strong>, Point Grey 公司推出的 BumbleBee）以及ToF<a href="#fn:tof" id="fnref:tof" title="查看注脚" class="footnote">[2]</a>相机（如微软的<strong>Kinect 2.0</strong>, MESA 的 SR4000 , Google Project Tango 中使用的PMD Tech 的TOF相机，Intel 的 SoftKinect DepthSense, Basler基于松下的芯片开发的TOF相机以及国内一些初创公司基于TI的方案开发的TOF相机等等）</p><blockquote data-anchor-id="e0g5" class="white-blockquote">
+  <p>目前市面上常有的 3D 相机方案就就是下面3种，对应上面的： <br>
+  (1) 结构光(Structured-light)，代表公司有奥比中光（国产，比较推荐，性价比可以，也有高分辨率的款），苹果(Prime Sense)，微软 Kinect-1，英特尔RealSense, Mantis Vision 等。 <br>
+  (2) 双目视觉(Stereo)，代表公司 Leap Motion， ZED， 大疆; <br>
+  (3) 光飞行时间法(TOF)，代表公司微软 Kinect-2，PMD，SoftKinect， 联想Phab。</p>
+</blockquote><p data-anchor-id="w5rs"><img src="http://static.zybuluo.com/usiege/nw2lyad2ikqkuk4vdlx3jwr1/image_1cs5el5cb14m9bhr9ts11rvgve4i.png" alt="image_1cs5el5cb14m9bhr9ts11rvgve4i.png-82.7kB" title=""></p><div class="md-section-divider"></div><h2 data-anchor-id="o4hm" id="1-kinect">1. Kinect</h2><p data-anchor-id="udrn">先给出结论，<strong>KinectV2的精度在2mm~4mm左右</strong>，距离越近精度越高，越远精度稍微差点；kinectV1误差约<strong>2mm~30mm</strong>。</p><p data-anchor-id="7sp4"><a href="https://ieeexplore.ieee.org/document/7251485" target="_blank">Kinectv2 for Mobile Robot Navigation: Evaluationand Modeling</a></p><ul data-anchor-id="b7ij">
+<li>Kinect v2在不同位置的精度问题</li>
+</ul><p data-anchor-id="bppw"><img src="http://static.zybuluo.com/usiege/vvzip2kg0mvhqzyiekssyy45/image_1cs6h8fbdokn1ljf1npuogg1g2b5p.png" alt="image_1cs6h8fbdokn1ljf1npuogg1g2b5p.png-1587.5kB" title=""></p><p data-anchor-id="5js5">如上图所示，右侧大三角是KinectV2在纵向（垂直于地面）的精度分布，下侧大三角是KinectV2在水平面（平行于地面）上的精度分布。在绿色区域精度最高，误差<strong>小于2mm</strong>，在黄色区域误差在<strong>2~4mm</strong>，红色区域误差<strong>大于4mm</strong>。所以在设计交互场景时，在黄色区域以内会达到最好的效果（3.5m内）。如果对精度要求很高，如控制机械，最好在绿色区域进行交互。</p><div class="md-section-divider"></div><h2 data-anchor-id="hr66" id="2-kinect-v2和kinect-v1">2 Kinect v2和Kinect v1</h2><p data-anchor-id="ptc2"><img src="http://static.zybuluo.com/usiege/dtqesw77jft8329nqssqrj5x/image_1cs5gdtqv1r19e2m1ufcgal15a75c.png" alt="性能表对比" title=""></p><p data-anchor-id="bppc">Kinect v2的rgb视场（FOV<a href="#fn:fov" id="fnref:fov" title="查看注脚" class="footnote">[3]</a>）是84.1 x 53.8，关于FOV的建模和模型可以<a href="http://www.smeenk.com/webgl/kinectfovexplorer.html" target="_blank">参考</a>。</p><p data-anchor-id="cq5l"><img src="http://static.zybuluo.com/usiege/k6xs97dxiheiib6r2m8bynbz/image_1cs6hgs884u61c4cs061tp61d9466.png" alt="image_1cs6hgs884u61c4cs061tp61d9466.png-274.2kB" title=""></p><p data-anchor-id="2ipg">如图所示，KinectV1随着距离增加，误差指数性增加，在距离达到4m时，kinectV1误差<strong>接近0.2m</strong>。而KinectV2的误差几乎不随距离增加而变化。V2比V1追踪准确度好20%。V2可以在户外进行人体跟踪，最远到4m。V2在近距离有比V1高2倍的精度，在6m有高数十倍的精度。</p><ul data-anchor-id="jzil">
+<li>kinectv1和kinectv2比较</li>
+</ul><table data-anchor-id="bzw1" class="table table-striped-white table-bordered">
+<thead>
+<tr>
+ <th>-</th>
+ <th>KinectV1</th>
+ <th>KinectV2</th>
+</tr>
+</thead>
+<tbody><tr>
+ <td>检测范围(Range of Detecton)</td>
+ <td>0.8–6.0m</td>
+ <td>0.5 –4.5m</td>
+</tr>
+<tr>
+ <td>深度误差(depth Uncertainty)</td>
+ <td>2mm-30mm</td>
+ <td>&lt;0.5% of range</td>
+</tr>
+<tr>
+ <td>角度(Angle，horizontal-vertical)</td>
+ <td>57-43</td>
+ <td>70-60</td>
+</tr>
+</tbody></table><div class="md-section-divider"></div><h2 data-anchor-id="w7qk" id="3-leapmotion">3. LeapMotion</h2><p data-anchor-id="wxfc">LeapMotion的精度平均下来是<strong>0.7mm</strong>的精度，也是达不到所谓的0.01mm的。</p><p data-anchor-id="eih8"><a href="https://github.com/usiege/CASIA/blob/master/paper-pointcloud/sensors-13-06380.pdf" target="_blank">Analysis of the Accuracy and Robustness of the Leap <br>
+Motion Controller</a></p><p data-anchor-id="pb2m">上面的论文对初步版本中的Leap Motion控制器进行研究，分别在静态与动态设置下的精度和准确性，考虑到人手的可达到的平均约为0.4mm，实验用设备使用参考笔，位置精度可达0.2mm，且参考笔对仪器精度测量无可观察到的影响。在基于静态设置的测量下，获得了期望的3D位置与<strong>小于0.2mm</strong>的测量位置之间的与轴无关的偏差。在动态情况下，独立于平面，可以获得<strong>小于2.5mm</strong>的精度（平均1.2毫米）。重复性<strong>平均小于0.17毫米</strong>。在基于姿势的用户界面方面，在实际条件下不可能实现0.01mm的理论精度，而是高精度（总平均精度为<strong>0.7mm</strong>）。</p><div class="md-section-divider"></div><h2 data-anchor-id="229t" id="最后比较一下以上设备的优缺点">最后比较一下以上设备的优缺点</h2><div class="md-section-divider"></div><h3 data-anchor-id="phj4" id="1-microsoft-kinect">1. Microsoft Kinect</h3><p data-anchor-id="12qj"><img src="http://static.zybuluo.com/usiege/zqfzq1qjirtgmj2gxubcxni6/image_1cs835f4eiaa4gb1ln31cndcb2an.png" alt="image_1cs835f4eiaa4gb1ln31cndcb2an.png-99.9kB" title=""></p><p data-anchor-id="heg1">优点：</p><ul data-anchor-id="0tco">
+<li>可以获取深度数据（320＊240）、rgb </li>
+<li>数据（640＊480）、声音、骨骼节点（20个）</li>
+<li>拥有三套 SDK：微软 SDK、OpenNI、libfreenect</li>
+<li>后两个 SDK 是跨平台，支持各种开发语言</li>
+<li>价格便宜</li>
+<li>社区成熟，开发资源丰富</li>
+</ul><p data-anchor-id="lszl">缺点：</p><ul data-anchor-id="23d2">
+<li>传感器分辨率不够，看不清手指</li>
+<li>由于使用结构光技术，深度传感器的可视范围无法重叠</li>
+<li>OpenNI 和 libfreenect 虽然跨平台，但是功能远不如微软 SDK</li>
+<li>设备尺寸大，需要一坨电源线</li>
+<li>致命缺点，微软已宣布停止生产 Kinect 一代</li>
+</ul><div class="md-section-divider"></div><h3 data-anchor-id="163f" id="2-microsoft-kinect-one">2. Microsoft Kinect One</h3><p data-anchor-id="eytz"><img src="http://static.zybuluo.com/usiege/x15jth33tgjvm8ne69b8341w/image_1cs83c41h1bpip0qjqvc2s1aub4.png" alt="image_1cs83c41h1bpip0qjqvc2s1aub4.png-84.5kB" title=""></p><p data-anchor-id="su3h">优点：</p><ul data-anchor-id="9m4t">
+<li>分辨率更大、可以看到更广阔的场景</li>
+<li>可以检测到的人体关节点更多（25个），能看清手指</li>
+<li>拥有两套 SDK：微软 SDK、libfreenect2</li>
+<li>可以开发 Windows Store 应用</li>
+</ul><p data-anchor-id="rdsj">缺点：</p><ul data-anchor-id="33s3">
+<li>libfreenect2 基本不能检测骨骼，功能缺太多，同时 OpenNI 也不支持它，因此局限于 Windows 平台</li>
+<li>设备尺寸比一代更大，需要一坨电源线，比一代贵一些</li>
+<li>致命缺点：只能运行在 64 位 Windows 8 系统上，必须使用 USB 3.0 端口</li>
+</ul><div class="md-section-divider"></div><h3 data-anchor-id="9bq3" id="3-intel-creative-softkinetic">3. Intel / Creative / SoftKinetic</h3><p data-anchor-id="kmny"><img src="http://static.zybuluo.com/usiege/mz6hk7qh58fxw74xu9038ye2/image_1cs83s6uv6941lg0gaonlg1ocp19.png" alt="image_1cs83s6uv6941lg0gaonlg1ocp19.png-259.3kB" title=""></p><p data-anchor-id="ubkc">优点：</p><ul data-anchor-id="tzcz">
+<li>小巧，普通 USB 摄像头的尺寸</li>
+<li>不需要外界电源线</li>
+<li>近距离使用，可实现表情分析和手势识别</li>
+</ul><p data-anchor-id="c3j6">缺点：</p><ul data-anchor-id="rhow">
+<li>不适合远距离交互，也无法检测完整的身体</li>
+<li>只能在中高端的 Intel CPU 上才能运行</li>
+</ul><div class="md-section-divider"></div><h3 data-anchor-id="s4nw" id="4-leap-motion">4. Leap Motion</h3><p data-anchor-id="0vsr"><img src="http://static.zybuluo.com/usiege/hacbua5n3k64vafha0g1j1gx/image_1cs83t6bukpppr9f021dtt1cdo1m.png" alt="image_1cs83t6bukpppr9f021dtt1cdo1m.png-170.4kB" title=""></p><p data-anchor-id="zulw">优点：</p><ul data-anchor-id="z2dr">
+<li>小巧，一根 usb 线就可以使用</li>
+<li>跨平台</li>
+<li>支持的开发语言比较多，甚至通过 WebSocket </li>
+<li>实现了浏览器中的 JavaScript API</li>
+<li>跟踪手指和手掌，精度较高</li>
+</ul><p data-anchor-id="zj5e">缺点：</p><ul data-anchor-id="jz7y">
+<li>检测范围小，手臂酸疼（见上图）</li>
+<li>不能检测身体和脸部</li>
+<li>作为生产力工具，完全无法替代鼠标键盘</li>
+<li>致命缺点：找不到合适的使用场景</li>
+</ul><div class="md-section-divider"></div><h3 data-anchor-id="yqt5" id="5-primesense-apple-华硕asus">5. PrimeSense / Apple / 华硕（ASUS）</h3><p data-anchor-id="92x5"><img src="http://static.zybuluo.com/usiege/oy42h0f0vsdbzjpjkybh5dma/image_1cs8479dm6sncqr1ulgb1e1l5r23.png" alt="image_1cs8479dm6sncqr1ulgb1e1l5r23.png-80.6kB" title=""></p><p data-anchor-id="8oj4">和 Kinect 一代的优缺点类似，</p><hr><div class="footnotes" data-anchor-id="b7yn">
+<hr>
+<small>
+
+<span id="fn:zh">[1] </span><a href="https://zhuanlan.zhihu.com/p/28274727" target="_blank">https://zhuanlan.zhihu.com/p/28274727</a> <a href="#fnref:zh" title="回到文稿" class="reversefootnote">↩</a><br>
+
+<span id="fn:tof">[2] </span><a href="https://baike.baidu.com/item/TOF/19952376?fr=aladdin" target="_blank">https://baike.baidu.com/item/TOF/19952376?fr=aladdin</a> <a href="#fnref:tof" title="回到文稿" class="reversefootnote">↩</a><br>
+
+<span id="fn:fov">[3] </span><a href="http://www.coloreye.cn/wiki/doc-view-716.html" target="_blank">http://www.coloreye.cn/wiki/doc-view-716.html</a> <a href="#fnref:fov" title="回到文稿" class="reversefootnote">↩</a><br>
+
+</small>
+</div></div>
+</body>
+</html>
