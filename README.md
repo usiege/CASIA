@@ -6,8 +6,16 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
-### 2018-12-07
 
+### 2018-12-09
+
+* [CCF BDCI2018：阿里巴巴集团自动驾驶三维点云分割第四名方案（10fps on 1080）](https://zhuanlan.zhihu.com/p/51508500)
+
+
+### 2018-12-08
+
+* [从点云到网格（一）](https://www.cnblogs.com/luyb/p/5646143.html)
+* [点云及PCL编程基础](https://mp.weixin.qq.com/s/hUaCidt6XxPCI_Dj6tC0bA)
 
 
 ### 2018-12-06
