@@ -7,9 +7,29 @@
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
 
+### 2018-12-15
+
+* [VoxelNet: 基于点云的三维空间信息逐层次学习网络](https://zhuanlan.zhihu.com/p/40051716)
+* 
+
+
+
+### 2018-12-13
+
+* [图片标识工具labeltool](https://blog.csdn.net/wuzuyu365/article/details/52523061)
+
+* [图片标识工具LabelImg](https://blog.csdn.net/xingwei_09/article/details/79171452)
+* [PyInstaller](http://www.pyinstaller.org)
+
+* [py-MDNet](https://github.com/HyeonseobNam/py-MDNet)
+* [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](http://cvlab.postech.ac.kr/research/mdnet/)
+
+
 ### 2018-12-09
 
 * [CCF BDCI2018：阿里巴巴集团自动驾驶三维点云分割第四名方案（10fps on 1080）](https://zhuanlan.zhihu.com/p/51508500)
+
+* [CVPR2017精彩论文解读：直接处理三维点云的深度学习模型](https://www.leiphone.com/news/201708/ehaRP2W7JpF1jG0P.htm)
 
 
 ### 2018-12-08
