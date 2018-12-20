@@ -6,6 +6,16 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-12-20
+
+* [Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow)
+* [RFCN](https://github.com/YuwenXiong/py-R-FCN)
+
+### 2018-12-18
+
+* [py-MDNet tracking](https://github.com/HyeonseobNam/py-MDNet)
+
+
 ### 2018-12-16
 
 * [点云感知 CVPR 2018 论文总结](https://zhuanlan.zhihu.com/p/41287237)
@@ -15,7 +25,6 @@
 
 * [VoxelNet: 基于点云的三维空间信息逐层次学习网络](https://zhuanlan.zhihu.com/p/40051716)
 * [无人驾驶与视觉感知导读（持续更新）](https://zhuanlan.zhihu.com/p/41460767)
-
 
 
 ### 2018-12-13
