@@ -6,10 +6,45 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+
+### 2018-12-25
+
+
+
+### 2018-12-24
+
+* 主成分分析（PCA）
+
+* 特征值与特征向量
+
+* 添加了win下的Endnote x7软件，该软件是用于文献管理的，可直接与word配合使用；
+
+
+### 2018-12-23
+
+* [10大称霸Kaggle的深度学习技巧（附课程&代码&论文）](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81572344)
+* [CNN卷积神经网络的经典网络](http://www.cnblogs.com/guoyaohua/p/8534077.html)
+
+
+### 2018-12-22
+
+* 点云阶段总结材料
+	1. [自动驾驶与视觉感知](https://zhuanlan.zhihu.com/c_211994536?utm_medium=social&utm_source=wechat_timeline&from=timeline&isappinstalled=0)
+	2. [点云感知 CVPR 2018 论文总结](https://zhuanlan.zhihu.com/p/41287237)
+	3. [无人驾驶与视觉感知导读（持续更新）](https://zhuanlan.zhihu.com/p/41460767)
+	4. [三维深度学习中的目标分类与语义分割](https://zhuanlan.zhihu.com/p/46742217)
+	5. [CreativeAI 3D (Geometric) Domain](http://geometry.cs.ucl.ac.uk/creativeai/)
+
+
+### 2018-12-21
+
+* [CreativeAI: Deep Learning for Graphics](http://geometry.cs.ucl.ac.uk/creativeai/)
+
 ### 2018-12-20
 
 * [Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow)
 * [RFCN](https://github.com/YuwenXiong/py-R-FCN)
+* [MXNet（C++）](https://github.com/apache/incubator-mxnet)
 
 ### 2018-12-18
 
