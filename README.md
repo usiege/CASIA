@@ -6,16 +6,33 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+### 2018-12-28
+
+
+
+
+### 2018-12-27
+
+* [R-CNN、Fast/Faster/Mask R-CNN、FCN、RFCN 、SSD原理简析](https://zhuanlan.zhihu.com/p/47579399)
+* [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](http://rgbd.cs.princeton.edu/paper.pdf)
+* [Lidar-based Methods for Tracking and Identification](http://publications.lib.chalmers.se/records/fulltext/241972/241972.pdf)
 
 ### 2018-12-25
+
+* [花了10分钟，终于弄懂了特征值和特征向量](http://mini.eastday.com/bdmip/180328092726628.html)
+
+* [经典CNN结构简析：AlexNet、VGG、NIN、GoogLeNet、ResNet etc.](https://zhuanlan.zhihu.com/p/47391705)
+* [R-CNN、Fast/Faster/Mask R-CNN、FCN、RFCN 、SSD原理简析](https://zhuanlan.zhihu.com/p/47579399)
+
+- 今日备忘
+	1. 使用xmanager，在客户端也能看到服务器的界面；
 
 
 
 ### 2018-12-24
 
-* 主成分分析（PCA）
-
-* 特征值与特征向量
+* 主成分分析（PCA）（未完成
+* 特征值与特征向量（未完成
 
 * 添加了win下的Endnote x7软件，该软件是用于文献管理的，可直接与word配合使用；
 
