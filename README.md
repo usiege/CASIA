@@ -8,7 +8,10 @@
 
 ### 2018-12-28
 
-
+- [十二月第一周](https://github.com/usiege/CASIA/blob/master/2018-12-第一周.md)
+- [十二月第二周](https://github.com/usiege/CASIA/blob/master/2018-12-第二周.md)
+- [十二月第三周](https://github.com/usiege/CASIA/blob/master/2018-12-第三周.md)
+- [十二月第四周](https://github.com/usiege/CASIA/blob/master/2018-12-第四周.md)
 
 
 ### 2018-12-27
@@ -142,10 +145,10 @@
 
 * [Pointwise原文](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/Pointwise%20Convolutional%20Neural%20Networks.pdf)
 
-- [十月第四周](https://github.com/usiege/CASIA/blob/master/2018-10-第四周.md)
 - [十一月第一周](https://github.com/usiege/CASIA/blob/master/2018-11-第一周.md)
 - [十一月第二周](https://github.com/usiege/CASIA/blob/master/2018-11-第二周.md)
 - [十一月第三周](https://github.com/usiege/CASIA/blob/master/2018-11-第三周.md)
+- [十一月第四周](https://github.com/usiege/CASIA/blob/master/2018-11-第四周.md)
 
 ### 2018-11-21
 
@@ -199,6 +202,8 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 * [吴恩达机器学习Yearing](https://github.com/usiege/Machine-Learning/blob/master/wuenda/NG18中文版.pdf)
 
 ### 2018-10-31
+
+- [十月第四周](https://github.com/usiege/CASIA/blob/master/2018-10-第四周.md)
 * [如何进行fine-tune（tensorflow实现）](https://blog.csdn.net/fk1174/article/details/79731080)
 
 ### 2018-10-22
