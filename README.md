@@ -6,7 +6,20 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
-### 2018-12-28
+
+### 2019-01-08
+
+- [R-CNN、Fast/Faster/Mask R-CNN、FCN、RFCN 、SSD原理简析](https://zhuanlan.zhihu.com/p/47579399)
+- [RFCN-tensorflow 源码](https://github.com/xdever/RFCN-tensorflow)
+
+
+### 2019-01-03
+
+- 开题PPT修改，格式注意点
+- [计算机视觉四大基本任务(分类、定位、检测、分割)](https://zhuanlan.zhihu.com/p/31727402)
+
+
+### 2018-12-29
 
 - [十二月第一周](https://github.com/usiege/CASIA/blob/master/2018-12-第一周.md)
 - [十二月第二周](https://github.com/usiege/CASIA/blob/master/2018-12-第二周.md)
@@ -28,7 +41,7 @@
 * [R-CNN、Fast/Faster/Mask R-CNN、FCN、RFCN 、SSD原理简析](https://zhuanlan.zhihu.com/p/47579399)
 
 - 今日备忘
-	1. 使用xmanager，在客户端也能看到服务器的界面；
+	1. 使用xmanager，在客户端也能看到服务器的界面（win下；
 
 
 
