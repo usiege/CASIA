@@ -6,6 +6,13 @@
 
 ## 中国科学院自动化研究所（Institute of Automation，Chinese Academy of Sciences）
 
+> 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
+
+
+### 2019-01-18
+
+- 添加了2019年学习计划表，[链接](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)，为2020年初做长足准备，转行需要补太多知识了，要有准备有计划的进行；
+
 
 ### 2019-01-08
 
