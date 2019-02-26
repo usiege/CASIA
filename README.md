@@ -9,6 +9,25 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+
+
+### 2019-02-18
+
+- 解决数据分布不均衡问题，[Focal loss](https://zhuanlan.zhihu.com/p/32423092)
+- [SqueezeSegV2](https://github.com/xuanyuzhou98/SqueezeSegV2)
+- [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)
+
+
+### 2019-01-28
+
+- 19年了；
+
+- [一月第一周](https://github.com/usiege/CASIA/blob/master/2019-01-第一周.md)
+- [一月第二周](https://github.com/usiege/CASIA/blob/master/2019-01-第二周.md)
+- [一月第三周](https://github.com/usiege/CASIA/blob/master/2019-01-第三周.md)
+- [一月第四周](https://github.com/usiege/CASIA/blob/master/2019-01-第四周.md)
+
+
 ### 2019-01-18
 
 - 添加了2019年学习计划表，[链接](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)，为2020年初做长足准备，转行需要补太多知识了，要有准备有计划的进行；
