@@ -11,6 +11,38 @@
 
 
 
+### 2019-03-05
+
+- [VoxelNet 翻译](https://zhuanlan.zhihu.com/p/27896452)
+
+
+### 2019-03-04
+
+- [SIFT算法](https://blog.csdn.net/lingyunxianhe/article/details/79063547)
+
+
+### 2019-03-01
+
+- [跟随大佬的脚步](http://www.cnblogs.com/charlotte77/p/6178699.html)
+- [SequenceNet论文翻译](https://blog.csdn.net/u014540717/article/details/53397029)
+- [lenet论文翻译部分](https://blog.csdn.net/qianqing13579/article/details/71076261#lenet论文翻译)
+
+### 2019-02-28
+
+- [A list of references on lidar point cloud processing for autonomous driving](https://github.com/beedotkiran/Lidar_For_AD_references)
+- [Alexnet 中文翻译](https://asdfv1929.github.io/2017/12/31/alexnet/)
+
+### 2019-02-27
+
+- [LeNet论文的翻译与CNN三大核心思想的解读](https://blog.csdn.net/qianqing13579/article/details/71076261)
+- [Fully Convolutional Networks for semantic Segmentation（深度学习经典论文翻译）](https://www.cnblogs.com/xuanxufeng/p/6249834.html)
+
+### 2019-02-26
+
+- [激光反射强度 intensity](http://desktop.arcgis.com/zh-cn/arcmap/latest/manage-data/las-dataset/what-is-intensity-data-.htm) 
+- [单目视频无监督深度学习的结构化方法 ](http://www.sohu.com/a/281308640_670669)
+- [shadowsocks](https://shadowsocks.org/en/download/clients.html)
+
 ### 2019-02-18
 
 - 解决数据分布不均衡问题，[Focal loss](https://zhuanlan.zhihu.com/p/32423092)
@@ -68,7 +100,6 @@
 
 - 今日备忘
 	1. 使用xmanager，在客户端也能看到服务器的界面（win下；
-
 
 
 ### 2018-12-24
