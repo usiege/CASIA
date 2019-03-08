@@ -9,12 +9,21 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+### 2019-03-08
 
+
+
+
+### 2019-03-06
+
+- [Pointnet 说明](http://www.python88.com/topic/28079)
+- [Pointnet 中文翻译](https://www.zybuluo.com/usiege/note/1405465)
 
 ### 2019-03-05
 
 - [VoxelNet 翻译](https://zhuanlan.zhihu.com/p/27896452)
-
+- [SqueezeSeg 翻译](https://www.zybuluo.com/usiege/note/1268607)
+- [SqueezeSegV2 翻译](https://www.zybuluo.com/usiege/note/1407175)
 
 ### 2019-03-04
 
@@ -26,6 +35,14 @@
 - [跟随大佬的脚步](http://www.cnblogs.com/charlotte77/p/6178699.html)
 - [SequenceNet论文翻译](https://blog.csdn.net/u014540717/article/details/53397029)
 - [lenet论文翻译部分](https://blog.csdn.net/qianqing13579/article/details/71076261#lenet论文翻译)
+
+
+### 2009-02
+
+本月有两周放假~
+
+- [二月第一周](https://github.com/usiege/CASIA/blob/master/2019-02-第一周.md)
+- [二月第二周](https://github.com/usiege/CASIA/blob/master/2019-02-第二周.md)
 
 ### 2019-02-28
 
@@ -48,7 +65,6 @@
 - 解决数据分布不均衡问题，[Focal loss](https://zhuanlan.zhihu.com/p/32423092)
 - [SqueezeSegV2](https://github.com/xuanyuzhou98/SqueezeSegV2)
 - [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)
-
 
 ### 2019-01-28
 

@@ -1,0 +1,25 @@
+cmake_minimum_required(VERSION 2.8)
+
+project(generate_result)
+
+FIND_PACKAGE(CUDA REQUIRED)
+
+# add source files
+SET(PROJECT_SOURCE_DIR src)
+INCLUDE_DIRECTORIES(include)
+
+# debug options
+SET(CUDA_NVCC_FLAGS_DEBUG "-g -G")
+SET(CMAKE_CXX_FLAGS_DEBUG "-g")
+
+SET(CMAKE_CXX_FLAGS_DEBUG "-lz")
+
+# support c++ 11
+SET(CUDA_NVCC_FLAGS "${CUDA_NVCC_FLAGS} --std=c++11")
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+
+# release options
+SET(CUDA_NVCC_FLAGS_RELEASE "-O2")
+SET(CMAKE_CXX_FLAGS_RELEASE "-O2")
+
+ADD_SUBDIRECTORY(src)
