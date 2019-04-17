@@ -9,10 +9,105 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
-### 2019-03-08
+
+### 2019-04-13
+
+- [图像语义分割之FCN和CRF](https://zhuanlan.zhihu.com/p/22308032) 
+- [重新思考扩张卷积！中科院&深睿提出新型上采样模块JPU](https://zhuanlan.zhihu.com/p/61431619)
+- [如何理解 Graph Convolutional Network（GCN）？](https://www.zhihu.com/question/54504471/answer/332657604)
+
+### 2019-04-08
+
+- [GCN numpy实现](https://mp.weixin.qq.com/s/sg9O761F0KHAmCPOfMW_kQ)
+- [CS468: 3D Deep Learning on Point Cloud Data](http://graphics.stanford.edu/courses/cs468-17-spring/LectureSlides/L16%20-%203d%20deep%20learning%20on%20point%20cloud%20\(analysis\)%20and%20joint%20embedding.pdf)
+
+### 2019-04-07
+
+- [如何理解GCN](https://www.zhihu.com/question/54504471/answer/332657604)
+- [谱聚类 spectral cluster](https://www.cnblogs.com/pinard/p/6221564.html)
 
 
+### 2019-04-06
 
+- [FCN-CRF-MRF](https://zhuanlan.zhihu.com/p/22308032)
+
+没事可以上去翻翻系列
+
+- [awesome-semantic-segmentatio](https://github.com/mrgloom/awesome-semantic-segmentation)
+
+- [FCN 上采样的解析](https://zhuanlan.zhihu.com/p/32037333)
+    目前大部分用于语义分割网络的通病：容易丢失较小的目标……
+- [RCNN 将CNN引入目标检测的开山之作](https://zhuanlan.zhihu.com/p/23006190)
+
+### 2019-04-03
+
+- [VGG 了解](https://zhuanlan.zhihu.com/p/23518167)
+
+### 2019-04-02
+
+转投vim+snippets;
+
+- [vim+Letex](https://mp.weixin.qq.com/s/QpJWyLY5AyrXGF-j7LYTGg)
+- [snippets](https://mp.weixin.qq.com/s/oTIT9vOq1-I7nJQxoqQvBw)
+
+强化学习
+
+- [awdsome-rl](https://github.com/uwuneng/awesome-rl)
+
+### 2019-03
+
+- [三月第一周](https://github.com/usiege/CASIA/blob/master/2019-03-第一周.md)
+- [三月第二周](https://github.com/usiege/CASIA/blob/master/2019-03-第二周.md)
+- [三月第三周](https://github.com/usiege/CASIA/blob/master/2019-03-第三周.md)
+- [三月第四周](https://github.com/usiege/CASIA/blob/master/2019-03-第四周.md)
+- 
+### 2019-03-27
+
+- [3D POINT CLOUD CLASSIFICATION USING DEEP LEARNING – RECENT WORKS](http://www.itzikbs.com/3d-point-cloud-classification-using-deep-learning)
+- [上面这个的翻译](https://www.cnblogs.com/li-yao7758258/p/8182846.html)
+- [上面的实现 PyTorch版本](https://github.com/fxia22/kdnet.pytorch)
+
+
+### 2019-03-26
+
+语义分割资源
+
+- [Segnet 资源](http://mi.eng.cam.ac.uk/projects/segnet/#demo)
+
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+- [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561)
+- [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
+- [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062)
+- [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915)
+- [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612)
+- [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
+- [Large Kernel Matters — Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719)
+- [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
+- [DeepLabv3 ASPP结构](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+
+
+### 2019-03-25
+
+- [语义分割江湖的那些事儿——从旷视说起](https://zhuanlan.zhihu.com/p/55263898?utm_source=wechat_session&utm_medium=social&utm_oi=74959758032896)
+
+- [语义分割全解](http://www.sohu.com/a/155907339_610300)
+
+
+### 2019-03-24
+
+- [硬核小哥教你上手LaTeX+Vim](https://mp.weixin.qq.com/s/QpJWyLY5AyrXGF-j7LYTGg)
+
+
+### 2019-03-13
+
+- [MacTex](https://www.jianshu.com/p/b1e3b029ded5)
+
+
+### 2019-03-12
+
+- [Modelnet](http://modelnet.cs.princeton.edu/)
+- [Kitti](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
+- [stanford 3d](http://buildingparser.stanford.edu/method.html)
 
 ### 2019-03-06
 
