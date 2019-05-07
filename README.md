@@ -10,6 +10,22 @@
 
 
 
+### 2019-05-03
+
+- [github deep learning 最全资料](https://mp.weixin.qq.com/s/Sw4xhoCwCRmuKx0CkBp4zQ)
+
+### 2019-04
+
+- [四月第一周](https://github.com/usiege/CASIA/blob/master/2019-04-第一周.md)
+- [四月第二周](https://github.com/usiege/CASIA/blob/master/2019-04-第二周.md)
+- [四月第三周](https://github.com/usiege/CASIA/blob/master/2019-04-第三周.md)
+- [四月第四周](https://github.com/usiege/CASIA/blob/master/2019-04-第四周.md)
+
+### 2019-04-26
+
+- [图像尺度空间理论](http://www.cnblogs.com/ronny/p/3886013.html)
+- [特征描述子](https://www.zhihu.com/search?type=content&q=%E7%89%B9%E5%BE%81%E6%8F%8F%E8%BF%B0%E5%AD%90)
+
 ### 2019-04-13
 
 - [图像语义分割之FCN和CRF](https://zhuanlan.zhihu.com/p/22308032) 
