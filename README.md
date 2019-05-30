@@ -9,6 +9,59 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+### 2019-05-30
+
+- [深度学习渐入死胡同，AI未来是图网络](https://zhuanlan.zhihu.com/p/55849337)
+- [图网络让深度学习也能因果推理](https://zhuanlan.zhihu.com/p/38071963)
+- [知识图谱](https://zhuanlan.zhihu.com/p/65457826)
+
+- [PointPillars code](https://github.com/nutonomy/second.pytorch)
+- [Pythorch unet](https://github.com/uwuneng/Pytorch-UNet)
+
+### 2019-05-24
+
+- [nuScenes arxiv](https://arxiv.org/abs/1903.11027)
+
+### 2019-05-23
+
+- [tensorboard for pytorch](https://github.com/lanpa/tensorboardX)
+- [算法导论 cplusplus](https://github.com/uwuneng/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
+
+
+### 2019-05-22
+
+- [NUSCENES](https://www.nuscenes.org)
+- [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit)
+
+
+### 2019-05-20
+
+- [利用python进行时间序列分析——季节性ARIMA](https://zhuanlan.zhihu.com/p/35282988)
+- [Python时间序列&ARIMA股票预测](https://zhuanlan.zhihu.com/p/50177664)
+- [阿里云翼计划 95187](https://promotion.aliyun.com/ntms/act/campus2018.html)
+
+### 2019-05-17
+
+- [Tensorflow lite iOS](https://zhuanlan.zhihu.com/p/32190069)
+- [Tensorflow swift](https://github.com/tensorflow/swift)
+- [Tensorflow lite](https://tensorflow.google.cn/lite/)
+
+### 2019-05-16
+
+- [wxpy+tensorflow制作微信机器人](https://zhuanlan.zhihu.com/p/29723434)
+- [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/)
+
+
+### 2019-05-15
+
+- [Tensorlayer github](https://github.com/tensorlayer/tensorlayer)
+- [TensorLayer 中文文档](https://tensorlayercn.readthedocs.io/zh/latest/user/installation.html)
+
+### 2019-05-14
+
+- [PocketFlow 将深度学习放入手机](https://github.com/Tencent/PocketFlow)
+- [Custom Object Detection and Classification Training](https://github.com/cloud-annotations/training)
+- [classification-ios](https://github.com/uwuneng/classification-ios)
 
 ### 2019-05-03
 
