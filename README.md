@@ -9,6 +9,20 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+
+
+
+### 2019-05
+
+- [五月第一周](https://github.com/usiege/CASIA/blob/master/2019-05-第一周.md)
+- [五月第二周](https://github.com/usiege/CASIA/blob/master/2019-05-第二周.md)
+- [五月第三周](https://github.com/usiege/CASIA/blob/master/2019-05-第三周.md)
+- [五月第四周](https://github.com/usiege/CASIA/blob/master/2019-05-第四周.md)
+
+### 2019.05.31
+
+- [目标分类和目标检测综述（2D和3D数据）](https://arxiv.org/pdf/1905.12683)
+
 ### 2019-05-30
 
 - [深度学习渐入死胡同，AI未来是图网络](https://zhuanlan.zhihu.com/p/55849337)
