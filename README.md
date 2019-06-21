@@ -8,9 +8,36 @@
 
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
+### 2019-06-21
 
+- [Graph Convolutional Networks 补充阅读](https://zhuanlan.zhihu.com/p/43136718)
 
+### 2019-06-20
 
+从这里看开去，这个代码比较全；
+- [https://github.com/LinZhuoChen/awesome-point-cloud-learning](https://github.com/LinZhuoChen/awesome-point-cloud-learning)
+
+下面的这个文章比较全；
+- [https://github.com/Yochengliu/awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+
+- [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://zhuanlan.zhihu.com/p/28749411)
+- [时下流行的深度学习数据标注工具](https://blog.csdn.net/minstyrain/article/details/82385580)
+
+### 2019-06-19
+
+- [Convolution Network及其变种（反卷积、扩展卷积、因果卷积、图卷积）](https://www.cnblogs.com/yangperasd/p/7071657.html)
+- [Variational autoencoders](https://zhuanlan.zhihu.com/p/62030178)
+- [Graph Convolutional Networks](https://zhuanlan.zhihu.com/p/43136718)
+- [Spatial Transformer Networks](https://zhuanlan.zhihu.com/p/37110107)
+
+### 2019-06-10
+
+- [Spatial Transformer Networks](https://zhuanlan.zhihu.com/p/37110107)
+- [深度学习新星 | 图卷积神经网络（GCN）有多强大？](https://zhuanlan.zhihu.com/p/37894842)
+
+### 2019-06-09
+
+- [Spatial Transformer Networks 空间变换不变性](https://zhuanlan.zhihu.com/p/37110107)
 
 ### 2019-05
 
