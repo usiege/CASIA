@@ -8,6 +8,48 @@
 
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
+
+### 2019-07-09
+
+- [目标检测中的mAP是什么含义？](https://www.zhihu.com/question/53405779)
+- 
+
+### 2019-07-04
+
+- [计算机视觉中，目前有哪些经典的目标跟踪算法？](https://www.zhihu.com/question/26493945/answer/156025576)
+- [Kernelized Correlation Filters](http://www.robots.ox.ac.uk/~joao/circulant/index.html)
+- [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
+
+### 2019-07-02
+
+- [数据标注还能更快！谷歌发布图像标注机器学习辅助工具 ](http://www.sohu.com/a/271138547_354973)
+- [深度学习的核心：掌握训练数据的方法](https://yq.aliyun.com/articles/279159)
+- [时下流行的深度学习数据标注工具](https://blog.csdn.net/minstyrain/article/details/82385580)
+
+### 2019-06
+
+- [六月第二周](https://github.com/usiege/CASIA/blob/master/2019-06-第二周.md)
+- [六月第三周](https://github.com/usiege/CASIA/blob/master/2019-06-第三周.md)
+
+### 2019-06-27
+
+- [Learning Intelligent Dialogs for Bounding Box Annotation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579054)
+- [“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts
+](http://pages.cs.wisc.edu/~dyer/cs534-fall11/papers/grabcut-rother.pdf)
+
+### 2019-06-25
+
+- [深度学习的核心：掌握训练数据的方法](https://yq.aliyun.com/articles/279159)
+- [Fluid Annotation: A Human-Machine Collaboration Interface for Full Image Annotation](https://arxiv.org/abs/1806.07527)
+- [Deep Interactive Object Selection](https://arxiv.org/abs/1603.04042)
+- [Annotating Object Instances with a Polygon-RNN](https://arxiv.org/abs/1704.05548)
+- [Regional Interactive Image Segmentation Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liew_Regional_Interactive_Image_ICCV_2017_paper.pdf)
+
+### 2019-06-24
+
+- [令人拍案称奇的Mask RCNN](https://zhuanlan.zhihu.com/p/37998710)
+- [一文读懂Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)
+
 ### 2019-06-21
 
 - [Graph Convolutional Networks 补充阅读](https://zhuanlan.zhihu.com/p/43136718)
