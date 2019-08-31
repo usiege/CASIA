@@ -9,10 +9,31 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+
+### 2019-08-10
+
+- [tkinter详解](https://www.cnblogs.com/tynam/p/8779319.html)
+
+
+### 2019-07-19
+
+- [机器学习常见面试题](https://www.cnblogs.com/ljy2013/p/6890408.html)
+
+
+### 2019-07-18
+
+- [目标检测|YOLO原理与实现](https://zhuanlan.zhihu.com/p/32525231)
+- [目标检测|SSD原理与实现](https://zhuanlan.zhihu.com/p/33544892)
+- [目标检测模型的评估指标mAP详解](https://zhuanlan.zhihu.com/p/37910324)
+
+### 2019-07-12
+
+- [深度学习在计算机视觉领域（包括图像，视频，3-D点云，深度图）的应用一览](https://zhuanlan.zhihu.com/p/55747295)
+
 ### 2019-07-09
 
 - [目标检测中的mAP是什么含义？](https://www.zhihu.com/question/53405779)
-- 
+- [深度学习 跳跃式的连接方式为什么有效？](https://www.zhihu.com/question/276338119)
 
 ### 2019-07-04
 
