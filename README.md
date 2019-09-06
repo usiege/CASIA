@@ -9,11 +9,22 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+### 2019-08-12
+> Siggraph asia论文投稿
+
+- Automatic annotation for image sequences and videos
+- Visual-based Soft Drink Detection for Automatic Vending Machine
 
 ### 2019-08-10
 
 - [tkinter详解](https://www.cnblogs.com/tynam/p/8779319.html)
 
+### 2019-07
+
+- [七月第一周](https://github.com/usiege/CASIA/blob/master/2019-07-第一周.md)
+- [七月第二周](https://github.com/usiege/CASIA/blob/master/2019-07-第二周.md)
+- [七月第三周](https://github.com/usiege/CASIA/blob/master/2019-07-第三周.md)
+- [七月第四周](https://github.com/usiege/CASIA/blob/master/2019-07-第四周.md)
 
 ### 2019-07-19
 
@@ -22,8 +33,8 @@
 
 ### 2019-07-18
 
-- [目标检测|YOLO原理与实现](https://zhuanlan.zhihu.com/p/32525231)
-- [目标检测|SSD原理与实现](https://zhuanlan.zhihu.com/p/33544892)
+- [目标检测-YOLO原理与实现](https://zhuanlan.zhihu.com/p/32525231)
+- [目标检测-SSD原理与实现](https://zhuanlan.zhihu.com/p/33544892)
 - [目标检测模型的评估指标mAP详解](https://zhuanlan.zhihu.com/p/37910324)
 
 ### 2019-07-12
