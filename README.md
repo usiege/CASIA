@@ -9,6 +9,17 @@
 > 学习计划表 -> [SCHEDULE](https://github.com/usiege/CASIA/blob/master/SCHEDULE.md)
 
 
+### 2020-06-06
+
+- [9个数据标注工具](https://zhuanlan.zhihu.com/p/90472628)
+
+- [有什么比较好的3D数据（LIDAR激光点云）标注工具](https://www.zhihu.com/question/290799294/answer/626174198)
+
+### 2019-11-19
+
+- [Matlab读写库](https://www.jianshu.com/p/d311191979d7)
+
+
 ### 2019-08-12
 > Siggraph asia论文投稿
 
@@ -196,7 +207,7 @@
 
 ### 2019-04-13
 
-- [图像语义分割之FCN和CRF](https://zhuanlan.zhihu.com/p/22308032) 
+- [图像语义分割之FCN和CRF](https://zhuanlan.zhihu.com/p/22308032)
 - [重新思考扩张卷积！中科院&深睿提出新型上采样模块JPU](https://zhuanlan.zhihu.com/p/61431619)
 - [如何理解 Graph Convolutional Network（GCN）？](https://www.zhihu.com/question/54504471/answer/332657604)
 
@@ -244,7 +255,7 @@
 - [三月第二周](https://github.com/usiege/CASIA/blob/master/2019-03-第二周.md)
 - [三月第三周](https://github.com/usiege/CASIA/blob/master/2019-03-第三周.md)
 - [三月第四周](https://github.com/usiege/CASIA/blob/master/2019-03-第四周.md)
-- 
+-
 ### 2019-03-27
 
 - [3D POINT CLOUD CLASSIFICATION USING DEEP LEARNING – RECENT WORKS](http://www.itzikbs.com/3d-point-cloud-classification-using-deep-learning)
@@ -335,7 +346,7 @@
 
 ### 2019-02-26
 
-- [激光反射强度 intensity](http://desktop.arcgis.com/zh-cn/arcmap/latest/manage-data/las-dataset/what-is-intensity-data-.htm) 
+- [激光反射强度 intensity](http://desktop.arcgis.com/zh-cn/arcmap/latest/manage-data/las-dataset/what-is-intensity-data-.htm)
 - [单目视频无监督深度学习的结构化方法 ](http://www.sohu.com/a/281308640_670669)
 - [shadowsocks](https://shadowsocks.org/en/download/clients.html)
 
@@ -632,9 +643,9 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 
 ### 2018-08-28
 
-[SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud](https://github.com/uwuneng/SqueezeSeg) 
+[SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud](https://github.com/uwuneng/SqueezeSeg)
 
-### 2018-08-27 
+### 2018-08-27
 
 本地代码同步服务器，远程代码调拭
 
@@ -652,7 +663,7 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 
  * [NIPS DRL CSDN关于Human-level的资料](https://blog.csdn.net/mydear_11000/article/details/51488118)
  * [Playing Atari with Deep Reinforcement Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1312.5602v1%20Playing%20Atari.pdf)
- * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf) 
+ * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf)
 
 ### 2018-05-27
    - [机器之心——NeuralNetwork](https://github.com/usiege/Deep-Learning/tree/master/0527-NeuralNetwork)   [（文章链接）](https://mp.weixin.qq.com/s/KJafSya1PVWM_o2EZ4xl6w)
@@ -676,11 +687,11 @@ Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
 Learning and Curriculum Transfer Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1804.00810%20StarCraft%20RLvsCTL.pdf)
  * [Feedback-Based Tree Search for Reinforcement Learning](https://github.com/usiege/CASIA/blob/master/paper-reinforcement/1805.05935%20FBTS%20RL.pdf)
 
-### 2018-05-18 
+### 2018-05-18
   - [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2)
 
 
-### 2018-05-14 
+### 2018-05-14
   - [Youtube-Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=2);
 
 ### 2018-05-07 创建
@@ -692,4 +703,3 @@ Learning and Curriculum Transfer Learning](https://github.com/usiege/CASIA/blob/
 
 * [Deep-learning](https://github.com/usiege/Deep-Learning)
 * [Machine-learning](https://github.com/usiege/Machine-Learning)
-
