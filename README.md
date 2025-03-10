@@ -32,10 +32,10 @@
 
 ### 2019-07
 
-- [七月第一周](https://github.com/usiege/CASIA/blob/master/2019-07-第一周.md)
-- [七月第二周](https://github.com/usiege/CASIA/blob/master/2019-07-第二周.md)
-- [七月第三周](https://github.com/usiege/CASIA/blob/master/2019-07-第三周.md)
-- [七月第四周](https://github.com/usiege/CASIA/blob/master/2019-07-第四周.md)
+- [七月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-07-第一周.md)
+- [七月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-07-第二周.md)
+- [七月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-07-第三周.md)
+- [七月第四周](https://github.com/usiege/CASIA/blob//master/mds/2019-07-第四周.md)
 
 ### 2019-07-19
 
@@ -71,8 +71,8 @@
 
 ### 2019-06
 
-- [六月第二周](https://github.com/usiege/CASIA/blob/master/2019-06-第二周.md)
-- [六月第三周](https://github.com/usiege/CASIA/blob/master/2019-06-第三周.md)
+- [六月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-06-第二周.md)
+- [六月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-06-第三周.md)
 
 ### 2019-06-27
 
@@ -126,10 +126,10 @@
 
 ### 2019-05
 
-- [五月第一周](https://github.com/usiege/CASIA/blob/master/2019-05-第一周.md)
-- [五月第二周](https://github.com/usiege/CASIA/blob/master/2019-05-第二周.md)
-- [五月第三周](https://github.com/usiege/CASIA/blob/master/2019-05-第三周.md)
-- [五月第四周](https://github.com/usiege/CASIA/blob/master/2019-05-第四周.md)
+- [五月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-05-第一周.md)
+- [五月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-05-第二周.md)
+- [五月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-05-第三周.md)
+- [五月第四周](https://github.com/usiege/CASIA/blob//master/mds/2019-05-第四周.md)
 
 ### 2019.05.31
 
@@ -195,10 +195,10 @@
 
 ### 2019-04
 
-- [四月第一周](https://github.com/usiege/CASIA/blob/master/2019-04-第一周.md)
-- [四月第二周](https://github.com/usiege/CASIA/blob/master/2019-04-第二周.md)
-- [四月第三周](https://github.com/usiege/CASIA/blob/master/2019-04-第三周.md)
-- [四月第四周](https://github.com/usiege/CASIA/blob/master/2019-04-第四周.md)
+- [四月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-04-第一周.md)
+- [四月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-04-第二周.md)
+- [四月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-04-第三周.md)
+- [四月第四周](https://github.com/usiege/CASIA/blob//master/mds/2019-04-第四周.md)
 
 ### 2019-04-26
 
@@ -251,10 +251,10 @@
 
 ### 2019-03
 
-- [三月第一周](https://github.com/usiege/CASIA/blob/master/2019-03-第一周.md)
-- [三月第二周](https://github.com/usiege/CASIA/blob/master/2019-03-第二周.md)
-- [三月第三周](https://github.com/usiege/CASIA/blob/master/2019-03-第三周.md)
-- [三月第四周](https://github.com/usiege/CASIA/blob/master/2019-03-第四周.md)
+- [三月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-03-第一周.md)
+- [三月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-03-第二周.md)
+- [三月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-03-第三周.md)
+- [三月第四周](https://github.com/usiege/CASIA/blob//master/mds/2019-03-第四周.md)
 -
 ### 2019-03-27
 
@@ -331,8 +331,8 @@
 
 本月有两周放假~
 
-- [二月第一周](https://github.com/usiege/CASIA/blob/master/2019-02-第一周.md)
-- [二月第二周](https://github.com/usiege/CASIA/blob/master/2019-02-第二周.md)
+- [二月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-02-第一周.md)
+- [二月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-02-第二周.md)
 
 ### 2019-02-28
 
@@ -360,10 +360,10 @@
 
 - 19年了；
 
-- [一月第一周](https://github.com/usiege/CASIA/blob/master/2019-01-第一周.md)
-- [一月第二周](https://github.com/usiege/CASIA/blob/master/2019-01-第二周.md)
-- [一月第三周](https://github.com/usiege/CASIA/blob/master/2019-01-第三周.md)
-- [一月第四周](https://github.com/usiege/CASIA/blob/master/2019-01-第四周.md)
+- [一月第一周](https://github.com/usiege/CASIA/blob//master/mds/2019-01-第一周.md)
+- [一月第二周](https://github.com/usiege/CASIA/blob//master/mds/2019-01-第二周.md)
+- [一月第三周](https://github.com/usiege/CASIA/blob//master/mds/2019-01-第三周.md)
+- [一月第四周](https://github.com/usiege/CASIA/blob//master/mds/2019-01-第四周.md)
 
 
 ### 2019-01-18
@@ -385,10 +385,10 @@
 
 ### 2018-12-29
 
-- [十二月第一周](https://github.com/usiege/CASIA/blob/master/2018-12-第一周.md)
-- [十二月第二周](https://github.com/usiege/CASIA/blob/master/2018-12-第二周.md)
-- [十二月第三周](https://github.com/usiege/CASIA/blob/master/2018-12-第三周.md)
-- [十二月第四周](https://github.com/usiege/CASIA/blob/master/2018-12-第四周.md)
+- [十二月第一周](https://github.com/usiege/CASIA/blob//master/mds/2018-12-第一周.md)
+- [十二月第二周](https://github.com/usiege/CASIA/blob//master/mds/2018-12-第二周.md)
+- [十二月第三周](https://github.com/usiege/CASIA/blob//master/mds/2018-12-第三周.md)
+- [十二月第四周](https://github.com/usiege/CASIA/blob//master/mds/2018-12-第四周.md)
 
 
 ### 2018-12-27
@@ -521,10 +521,10 @@
 
 * [Pointwise原文](https://github.com/usiege/CASIA/blob/master/paper-pointcloud/Pointwise%20Convolutional%20Neural%20Networks.pdf)
 
-- [十一月第一周](https://github.com/usiege/CASIA/blob/master/2018-11-第一周.md)
-- [十一月第二周](https://github.com/usiege/CASIA/blob/master/2018-11-第二周.md)
-- [十一月第三周](https://github.com/usiege/CASIA/blob/master/2018-11-第三周.md)
-- [十一月第四周](https://github.com/usiege/CASIA/blob/master/2018-11-第四周.md)
+- [十一月第一周](https://github.com/usiege/CASIA/blob//master/mds/2018-11-第一周.md)
+- [十一月第二周](https://github.com/usiege/CASIA/blob//master/mds/2018-11-第二周.md)
+- [十一月第三周](https://github.com/usiege/CASIA/blob//master/mds/2018-11-第三周.md)
+- [十一月第四周](https://github.com/usiege/CASIA/blob//master/mds/2018-11-第四周.md)
 
 ### 2018-11-21
 
@@ -579,7 +579,7 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 
 ### 2018-10-31
 
-- [十月第四周](https://github.com/usiege/CASIA/blob/master/2018-10-第四周.md)
+- [十月第四周](https://github.com/usiege/CASIA/blob//master/mds/2018-10-第四周.md)
 * [如何进行fine-tune（tensorflow实现）](https://blog.csdn.net/fk1174/article/details/79731080)
 
 ### 2018-10-22
@@ -587,7 +587,7 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 
 
 ### 2018-10-19
-* [10月第三周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第三周.md)
+* [10月第三周总结](https://github.com/usiege/CASIA/blob//master/mds/2018-10-第三周.md)
 * 关于点云识别的传统方法有基于特征点的识别（用描述符），[相关论文]()
 
 ### 2018-10-18
@@ -609,27 +609,27 @@ InfiniTAM是一个开源、跨平台、实时的大范围深度信息融合与�
 [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ### 2018-10-12
-* [10月第二周总结](https://github.com/usiege/CASIA/blob/master/2018-10-第二周.md)
+* [10月第二周总结](https://github.com/usiege/CASIA/blob//master/mds/2018-10-第二周.md)
 
 ### 2018-09-24
 
-* 9月第三周总结，文档链接[9月第三周](https://github.com/usiege/CASIA/blob/master/2018-09-第三周.md)
+* 9月第三周总结，文档链接[9月第三周](https://github.com/usiege/CASIA/blob//master/mds/2018-09-第三周.md)
 
 ### 2018-09-14
 
-* 9月第二周总结，文档链接[9月第二周](https://github.com/usiege/CASIA/blob/master/2018-09-第二周.md)
+* 9月第二周总结，文档链接[9月第二周](https://github.com/usiege/CASIA/blob//master/mds/2018-09-第二周.md)
 
 * 添加了作业目录[cousera_DeepLearning-homework](https://github.com/usiege/Deep-Learning/cousera_DeepLearning-homework)
 
 ### 2018-09-07
 
-* 9月第一周总结，文档链接[9月第一周](https://github.com/usiege/CASIA/blob/master/2018-09-第一周.md)
+* 9月第一周总结，文档链接[9月第一周](https://github.com/usiege/CASIA/blob//master/mds/2018-09-第一周.md)
 
 
 ### 2018-08-31
 
 * 8月周总结，SqueezeSeg翻译[链接](https://github.com/usiege/Deep-Learning/blob/master/SqueezeSeg-%20Convolutional%20Neural%20Nets%20with%20Recurrent%20CRF%20for%20Real-Time%20Road-Object%20Segmentation%20from%203D%20LiDAR%20Point%20Cloud.md)；
-* 8月一周总结，[8月总结文档](https://github.com/usiege/CASIA/blob/master/2018-08-总结.md)
+* 8月一周总结，[8月总结文档](https://github.com/usiege/CASIA/blob//master/mds/2018-08-总结.md)
 
 ### 2018-08-30
 
